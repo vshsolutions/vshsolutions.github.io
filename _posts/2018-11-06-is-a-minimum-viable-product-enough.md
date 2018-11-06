@@ -14,9 +14,9 @@ It is broadly defined as the smallest thing that allows you to capture the maxim
 It is not a crude first version of the finished product, nor is it overloaded with features.
 ### What is it supposed to do?
 It should deliver value to the customer. The learning derived from it should help build towards the unique solution that has been envisioned to solve your customers’ problem.
-  
+<br/>  
 <center>*“An MVP is a down payment on a larger vision.” — Johnny Holland*</center>
-  
+<br/>  
 This simple statement explains it all. Your MVP is not just a trimmed down version of your final product, but rather a strategy and a process that is aimed at putting you directly in the market with the least risk to gather most learning. So far, so good. 
 
 Now here’s what an MVP is supposed to deliver:
