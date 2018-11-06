@@ -2,10 +2,11 @@
 layout: post
 title: Is a Minimum Viable Product Enough?
 ---
-Last year, Nick came to us with an idea for an app to [book airport pick up and drop for the UK market](https://www.1taxi.co "1Taxi"). The idea represented a chunk of market with substantial untapped potential and little competition until that point. We decided to do a rapid MVP to see how it could work in real life. We planned the MVP with all the right features, which were designed and tested specifically for the target customer base. It had the right functionality, the right marketing strategy, and there was a lot of initial interest. But the interest tapered off soon, and the indications all pointed to the concept having failed.
+Last year, Nick came to us with an idea for an app to [book airport pick up and drop for the UK market](https://www.1taxi.co "1Taxi"){:target="_blank"}. The idea represented a chunk of market with substantial untapped potential and little competition until that point. We decided to do a rapid MVP to see how it could work in real life. We planned the MVP with all the right features, which were designed and tested specifically for the target customer base. It had the right functionality, the right marketing strategy, and there was a lot of initial interest. But the interest tapered off soon, and the indications all pointed to the concept having failed.
 
 Just in the nick of time, our team figured out that it was the search box that the customers were having difficulty with. Even though it was a perfectly adequate search feature, the customers - who were used to amazing search suggestions from applications like Google Search and Google Maps - found it cumbersome and inconvenient to use. Once we changed the search feature to include auto suggestions and the search experience matched their expectations, we were back on track. This paved the way for better engagement, which enabled us to finally collect enough effective feedback for the next iteration. This experience taught us a valuable lesson about Minimum Viable Product and its limitations.
-![1Taxi Address Suggestion](/images/1taxi-google-address-suggestion.gif "1Taxi"){:target="_blank"}
+
+![1Taxi Address Suggestion](/images/1taxi-google-address-suggestion.gif "1Taxi")
 
 ### What is a Minimum Viable Product?
 It is broadly defined as the smallest thing that allows you to capture the maximum validated learning from customers with minimum effort.
