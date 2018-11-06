@@ -3,7 +3,6 @@ layout: post
 title: Is a Minimum Viable Product Enough?
 ---
 
-# Is a Minimum Viable Product Enough?
 ### How a search box almost killed an idea
 Last year, Nick came to us with an idea for an app to book airport pick up and drop for the UK market. The idea represented a chunk of market with substantial untapped potential and little competition until that point. We decided to do a rapid MVP to see how it could work in real life. We planned the MVP with all the right features, which were designed and tested specifically for the target customer base. It had the right functionality, the right marketing strategy, and there was a lot of initial interest. But the interest tapered off soon, and the indications all pointed to the concept having failed.
 
@@ -33,7 +32,7 @@ Now here’s what an MVP is supposed to deliver:
 ### Why is it not enough?
 MVP works best when treated like a learning vehicle, but here’s the snag. You see, while the design phase focuses on the minimum features required to convey the concept, it can often fail to take into account the user’s minimum expectation. So, while the product is perfectly capable of providing solution or generating interest, it could still end up being deemed cumbersome or inconvenient by the end user. This is especially true when the customer is accustomed to a certain level of experience and has already set their bar high on that front.
 
-For instance, the MVP is an app that offers only two modes of payment while the customers have already learnt to expect multiple payment options through other products/services they use. When a single but crucial point such as the number of options for payment or log in options falls short of their expectation, the entire MVP could be deemed inconvenient by the customer. This skews the feedback, making it more difficult to gather data on the aspects which are crucial for bringing the product closer to the final vision. Keeping in mind the ***minimum viable experience*** allows businesses to sidestep this flaw.
+For instance, the MVP is an app that offers only two modes of payment while the customers have already learnt to expect multiple payment options through other products/services they use. When a single but crucial point such as the number of options for payment or log in options falls short of their expectation, the entire MVP could be deemed inconvenient by the customer. This skews the feedback, making it more difficult to gather data on the aspects which are crucial for bringing the product closer to the final vision. Keeping in mind the **minimum viable experience** allows businesses to sidestep this flaw.
 
 ### Minimum Viable Experience
 Along with MVP, the minimum viable experience should also be factored in during the design phase. It is important to consider the customer’s journey and check if each feature is aligned with it. Consider whether each feature delivers on the minimum expectation that the customer has cultivated from their experience with similar solutions. A product with fewer features that are convenient and work beautifully is better than one with features that do not contribute to the user experience, or worse, one that delivers an inconsistent experience.
