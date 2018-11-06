@@ -13,7 +13,7 @@ It is broadly defined as the smallest thing that allows you to capture the maxim
 ### What is it not?
 It is not a crude first version of the finished product, nor is it overloaded with features.
 ### What is it supposed to do?
-It should deliver value to the customer. The learning derived from it should help build towards the unique solution that has been envisioned to solve your customers’ problem.
+It should deliver value to the customer. The learning derived from it should help build towards the unique solution that has been envisioned to solve your customers’ problem.  
 <br/>  
 <center><i>“An MVP is a down payment on a larger vision.” — Johnny Holland</i></center>
 <br/>  
