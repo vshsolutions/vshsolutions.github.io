@@ -21,5 +21,8 @@ Once the user is happy with your product, they will want to share it with others
 ### 5. Try and Buy
 Customers are often hesitant to commit to a product unless they can see the value in it. They may come to understand this value through a free basic version of the product. By putting in a promotional offer at the right time and providing one-click solutions for their additional pain points, this customer can be converted to a “closed won.” For premium or pre-trial products with no free versions, customers should be able to test drive the product through a free trial. It is important to ensure that the message about the product being free, free for trial, or having a money back guarantee is conveyed loud and clear through your website and all other promotional material. Again, feedback about promotions can be used to formulate better marketing strategies.
 
+
+<br/>
+<br/>
 When a product does not have what we call the “growth attitude,” even if it does well initially, the potential for ultimately losing the marketing budget is huge. Furthermore, a product that is not optimized for growth could end up losing customers’ interest which is really tough to regain. In the past, companies have practically ended up throwing away media attention opportunities, leads, and even paying customers for this simple reason. Based on our experience, this checklist has been designed over the last few years to avoid exactly these kinds of pitfalls. So make sure you go through this checklist before you start promotional activities to ensure that you make the most of your marketing budget.
 
