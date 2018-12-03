@@ -3,6 +3,8 @@ layout: post
 title: Machine Learning for Business 101
 ---
 
+<img style="display: block; margin: auto;" alt="Machine Learning" title="Machine Learning" src="/images/machine-learning.jpg">
+
 ### What is Machine Learning?
 Machine learning is the science of designing systems that can learn from data and make data-driven decisions and predictions without the need for explicit programming. ML is considered a subfield of both computer science and AI.
 <br/>  
