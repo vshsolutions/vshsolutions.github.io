@@ -2,6 +2,7 @@
 layout: post
 title: How do you Know if Your Product is Growth Ready?
 ---
+<img style="display: block; margin: auto;" alt="Growth" title="Growth" src="/images/growth.png">
 Let’s say you have a great first version of a product based on an innovative solution that addresses one or more specific customer pain points. The product works, your branding and marketing strategies have helped it gather attention in the media, you have customers, and you have crossed the final hurdle, viz., the customers actually like your product. Yet, the question remains. Is your product ready for growth? Is it optimized to give you the best return on your advertising and marketing budget? Does it have the essential tools to not only attract customers, but to retain them while acquiring great reviews as well as customer shares and recommendations? If you are unsure, then we have a checklist for you.
 
 ### 1. Optimize Customer Experience
