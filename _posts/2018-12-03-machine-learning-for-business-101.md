@@ -20,7 +20,7 @@ This definition speaks volumes about the importance of machine learning. Machine
 <br/>- Dr. Ben Waber, CEO, Humanyze</i>
 <br/>
 <br/>
-*The problem that you want to solve through machine learning should be complex enough that it can NOT be resolved with simple programming using a set of rules. 
+* The problem that you want to solve through machine learning should be complex enough that it can NOT be resolved with simple programming using a set of rules. 
 
 * It is important that the data available for the problem is current and structured. A great way to begin is by applying supervised machine learning to historical data. While applying ML to a field with rapidly changing trends, the data has to be new enough to be relevant to the trends and nuances of the business.
 
