@@ -47,4 +47,4 @@ You can make sure the extension is associated with your website by linking the w
 Having the title and description in as many different languages as possible makes the extension accessible to a wider audience. Chrome also loves internationalized apps, so you can expect improved ranking as well. Chrome Web Store offers a service which enables you to localize the extension by translating title and description.  Our recommendation is to localize your extension for all location options. If you wish to go one step further and offer artwork in different languages, it is a simple matter to have the text translated using freelance hiring portals online.
 
 
-So that’s our checklist for what to do before publishing an extension to the Chrome web store. Drop us a line if you found this list helpful.
+So that’s our checklist for what to do before publishing an extension to the Chrome web store. [Drop us a line](mailto:hello@vshsolutions.com?subject=The%20Chrome%20Web%20Store%20Primer%20Part%201%3A%20Before%20Publishing "Drop us a line"){:target="_blank"} if you found this list helpful.
