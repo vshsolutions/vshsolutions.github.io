@@ -6,6 +6,8 @@ title: The Chrome Web Store Primer Part 1: Before Publishing
 <img style="display: block; margin: auto;" alt="Machine Learning" title="Machine Learning" src="/images/chrome-webstore-logo.png">
 
 Over the last few years, we have specialized in building and growing extensions for Google Chrome. Along the way, we have picked up some techniques and come up with some of our own for making it a smoother process while avoiding the obvious but common blunders. That’s exactly what we will be talking about in this three-part article series.
+
+
 The things that make an extension successful go beyond just planning and building it. Your Chrome web store listing is one of those things that can make all the difference between an instantly popular application and one that is struggling to get noticed. We have put together a checklist that proves really useful each time we have to publish an extension to the Chrome Web Store, and here it is.
 
 
@@ -28,6 +30,8 @@ The chief goal of promotional tile images is to catch users’ attention and tem
 
 ### 3. Chrome Web Store Optimization
 The text assets required for listing broadly fall into two main categories - text that is used within the extension itself and text that has to be specified in the listing.  Long and short names of the extension as well as short description belong to the first category, viz. they are a part of the extension’s manifest file. The long description, on the other hand, is entered in the Chrome Web Store to help users understand what the extension does. 
+
+
 Web Store optimization using keywords is essential for both title and description in order to achieve better ranking. Long name/title text usually contains the name of your extension with a small tagline. Make sure the tagline contains your most important keyword(s). Long description tells the user what your extension does. Besides being optimized for search, it should contain good quality text that provides a complete and accurate description of your extension.
 
 
