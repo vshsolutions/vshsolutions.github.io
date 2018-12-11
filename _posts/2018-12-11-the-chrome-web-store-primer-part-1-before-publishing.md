@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Chrome Web Store Primer Part 1: Before Publishing
+title: The Chrome Web Store Primer Part 1&#58; Before Publishing
 ---
 
 <img style="display: block; margin: auto;" alt="Machine Learning" title="Machine Learning" src="/images/chrome-webstore-logo.png">
