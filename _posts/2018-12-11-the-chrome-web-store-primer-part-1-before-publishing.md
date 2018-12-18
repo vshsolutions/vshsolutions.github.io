@@ -3,7 +3,7 @@ layout: post
 title: The Chrome Web Store Primer Part 1&#58; Before Publishing
 ---
 
-<img style="display: block; margin: auto;" alt="Machine Learning" title="Machine Learning" src="/images/chrome-webstore-logo.png">
+<img style="display: block; margin: auto;" alt="Chrome Web Store" title="Chrome Web Store" src="/images/chrome-webstore-logo.png">
 
 Over the last few years, we have specialized in building and growing extensions for Google Chrome. Along the way, we have picked up some techniques and come up with some of our own for making it a smoother process while avoiding the obvious but common blunders. That’s exactly what we will be talking about in this three-part article series.
 
