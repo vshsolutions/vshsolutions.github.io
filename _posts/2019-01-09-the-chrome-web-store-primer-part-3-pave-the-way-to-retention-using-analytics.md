@@ -16,7 +16,7 @@ We have now optimized the listing for discovery and conversion. However, once th
 
 Many different types of analytics can be added to the extension to collect data that can help profile the user. Some of the ones we use regularly are:
 
-**[Google Analytics:](https://analytics.google.com "Google Analytics"){:target="_blank"}:** These are the most commonly used analytics. They give you access to basic metrics like page views and event tracking from within the extension. Their chief use is in gauging which features of the extension are being over or underutilized.
+**[Google Analytics:](https://analytics.google.com "Google Analytics"){:target="_blank"}** These are the most commonly used analytics. They give you access to basic metrics like page views and event tracking from within the extension. Their chief use is in gauging which features of the extension are being over or underutilized.
 
 **[Mixpanel:](https://mixpanel.com/ "Mixpanel"){:target="_blank"}**  Detailed executive-level analytics with real-time alerts for unexpected spikes or dips in user behavior. They come with friendly reporting for non-technical teams as well as automatic trend analysis. 
 
@@ -29,12 +29,14 @@ Many different types of analytics can be added to the extension to collect data 
 
 ### Defining KPIs
 Engagement metrics for an extension can vary from industry to industry and even within different verticals from the same industry. Data that is received from analytics can be used to measure the success of an extension only if the goals are predefined. From number of login sessions per day to the value of orders placed over a specific time period, the parameters to focus on while defining KPIs can be diverse. However, there are three chief performance indicators in an extension that you cannot afford to overlook.
-Activated User: An activated user is someone who has downloaded the extension and performed a meaningful interaction. This can include completing activities such as registration, adding payment method, placing the first order, etc. 
-Active User: The whole purpose of retention is to increase the number of active users. These are further divided into daily active users and monthly active users. Based on the purpose of the extension, either of these two could become your most important metric. 
-User Lifespan: Understanding how long users use your extension on an average before they either uninstall it or become inactive enables you to put strategies in place to reduce the churn rate and keep users active.
+
+**Activated User:** An <i>**activated user**</i> is someone who has downloaded the extension and performed a meaningful interaction. This can include completing activities such as registration, adding payment method, placing the first order, etc. 
+
+**Active User:** The whole purpose of retention is to increase the number of <i>**active users.**</i> These are further divided into <i>**daily active users**</i> and <i>**monthly active users**</i>. Based on the purpose of the extension, either of these two could become your most important metric. 
+
+**User Lifespan:** Understanding how long users use your extension on an average before they either uninstall it or become inactive enables you to put strategies in place to reduce the churn rate and keep users active.
+
 There are many other types of KPIs that could be used to measure user behavior. It is important to pick the right KPIs to focus on to ensure that you are getting a good sense of the user journey based on analytics data.
-
-
 
 
 ### Optimization
