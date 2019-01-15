@@ -36,4 +36,4 @@ The next step is to tweak each part of the listing, one at a time, and noting th
 ### In a Nutshell
 All the attention and footfall received from discovery is effective only if your listing is optimized for conversion. The data received from converted users also plays a huge role in improving the user journey thereby increasing the retention rate. In order to maximize conversion, you need to understand user behavior on the listing. The best way to do that is through analytics. By configuring Google Analytics on the listing, you get more detailed data that can then be used to tweak the listing for optimum conversion.
 
-In the next article, we will talk about how to track user behavior from within the extension using analytics and why it is significant for retention.
+In the [next article](http://blog.vshsolutions.com/the-chrome-web-store-primer-part-3-pave-the-way-to-retention-using-analytics/ "The Chrome Web Store Primer Part 3: Pave the Way to Retention Using Analytics"){:target="_blank"}, we will talk about how to track user behavior from within the extension using analytics and why it is significant for retention.

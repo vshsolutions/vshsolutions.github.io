@@ -50,3 +50,10 @@ Having the title and description in as many different languages as possible make
 <img style="display: block; margin: auto;" alt="Chrome Web Store Translation Service" title="Chrome Web Store Translation Service" src="/images/chrome-webstore-translation-service.png">
 
 So that’s our checklist for what to do before publishing an extension to the Chrome web store. [Drop us a line](mailto:hello@vshsolutions.com?subject=The%20Chrome%20Web%20Store%20Primer%20Part%201%3A%20Before%20Publishing "Drop us a line"){:target="_blank"} if you found this list helpful.
+
+
+
+[The Chrome Web Store Primer Part 2: Optimizing Conversion Rate Using Analytics](http://blog.vshsolutions.com/the-chrome-web-store-primer-part-2-optimizing-conversion-rate-using-analytics/ "The Chrome Web Store Primer Part 2: Optimizing Conversion Rate Using Analytics")
+
+[The Chrome Web Store Primer Part 3: Pave the Way to Retention Using Analytics](http://blog.vshsolutions.com/the-chrome-web-store-primer-part-3-pave-the-way-to-retention-using-analytics/ "The Chrome Web Store Primer Part 3: Pave the Way to Retention Using Analytics")
+
