@@ -10,7 +10,7 @@ Authenticating whether a banknote is real or not is one of the most common tasks
 
 In this article, we explain the process of building a banknote authentication system using machine learning algorithms. After reading this article, you will be able to understand how classification systems are built using machine learning algorithms.
 
-###The Need for Dataset
+### The Need for Dataset
 
 
 Machine learning algorithms learn from the dataset. Statistical algorithms are used behind the scenes to make a machine learning model learn from the data. Therefore, to identify whether a banknote is real or not, we needed a dataset of real as well as fake bank notes along with their different features. Luckily, we found such dataset at [UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/banknote+authentication), which is a repository of freely available datasets.
@@ -19,7 +19,7 @@ We used Python libraries for the analysis of our dataset as well as for training
 
 **Note:**  All the Python scripts in this article have been executed using the [Jupyter Notebook](file:///C:/Users/Hrishikesh/Downloads/org)
 
-###Importing Required Libraries
+### Importing Required Libraries
 
 
 Before we can import our dataset and perform analysis, we need to import a few libraries. The following script is used to import libraries:
@@ -32,7 +32,7 @@ import seaborn as sns
 ```
 In the script above, we import Pandas, Numpy and the Seaborn libraries.
 
-###Loading the Dataset
+### Loading the Dataset
 
 
 Once we import the libraries, the next step is to load the dataset into our application. To do so, we used the "read_csv()" function of the Pandas library, which reads dataset that is in the CSV format. The banknote dataset in CSV version can be found at this [Github link.](https://raw.githubusercontent.com/Kuntal-G/Machine-Learning/master/R-machine-learning/data/banknote-authentication.csv)
@@ -42,7 +42,7 @@ The following script loads the dataset into "banknote_dataset" dataframe:
 banknote_datadset = pd.read_csv('https://raw.githubusercontent.com/Kuntal-G/Machine-Learning/master/R-machine-learning/data/banknote-authentication.csv') 
 ```
 
-###Data Analysis
+### Data Analysis
 
 
 To see how the dataset actually looks, we can use the "head()" function of the Pandas dataframe:
@@ -106,7 +106,7 @@ from sklearn.model_selection import train_test_split
 train_features, test_features, train_labels, test_labels = train_test_split(dataset_features, dataset_labels, test_size=0.2, random_state=21) 
 ```
 
-###Training and Testing the Algorithm
+### Training and Testing the Algorithm
 
 
 After preprocessing the data, we trained the algorithm using the training set and evaluated the performance of our algorithm on the test set. We used [Random Forest](https://en.wikipedia.org/wiki/Random_forest), [Support Vector Machines](https://en.wikipedia.org/wiki/Support-vector_machine) and [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression), which are the three most commonly used algorithms for machine learning classification problems.
@@ -260,7 +260,7 @@ The output showed an accuracy of 98.54% with 3 misclassifications which is bette
 
 We concluded that the Random Forest algorithm is better than SVM and Logistic Regression for banknote authentication.
 
-###Conclusion
+### Conclusion
 
 
 Banknote authentication is an important task. It is difficult to manually detect fake bank notes. Machine learning algorithms can help in this regard. In this article, we explained how we solved the problem of banknote authentication using machine learning techniques. We compared three different algorithms in terms of performance and concluded that the Random Forest algorithms is the best algorithm for banknote authentication with an accuracy of 99.63%.
