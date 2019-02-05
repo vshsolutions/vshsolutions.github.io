@@ -75,7 +75,7 @@ As a last data analysis step, we wanted to see the relationship between the diff
 
 It is visible from the output that entropy and variance have a slight linear correlation. Similarly, there is an inverse linear correlation between the curtosis and skew. Finally, we can see that the values for curtosis and entropy are slightly higher for real banknotes, while the values for skew and variance are higher for the fake banknotes.
 
-###Data Preprocessing
+### Data Preprocessing
 
 
 After the analysis phase, we needed to preprocess the data and convert it into a format that can be used to train machine learning algorithms.
